@@ -1,0 +1,3 @@
+/home/quonone/workspace/webvideo/build/CMakeFiles/rm.dir
+/home/quonone/workspace/webvideo/build/CMakeFiles/edit_cache.dir
+/home/quonone/workspace/webvideo/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /home/quonone/workspace/webvideo -B /home/quonone/workspace/webvideo/build
+-- Found pybind11: /usr/local/include (found version "2.11.0dev1")
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/quonone/workspace/webvideo/build
